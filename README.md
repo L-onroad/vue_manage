@@ -16,3 +16,7 @@
 * 组件间通信部分运用了 vuex，方法及数据存放在 store 目录下
 
 * 请求因为没有后端服务器发送接收请求，所以利用了 mockjs 插件生成随机数据，拦截 Ajax 请求。组件化了 axios 的请求，该组件及数据拦截部分共同放在 api 目录下
+
+## 项目示例图如下
+![8ff071619560c1d251afd3898c40e4e](https://user-images.githubusercontent.com/109386046/186312932-084b02f0-b222-484a-9283-9736cc68beef.jpg)
+![9700989c99d754ea34daebcbab8702d](https://user-images.githubusercontent.com/109386046/186313073-dbe8ad92-e206-4c7a-a96d-5a109f4a5f90.jpg)
